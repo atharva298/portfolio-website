@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Bloggit",
+      "imageSrc": "projects/image.png",
+      "description": "This is a React-based blog app that lets users create, like, and delete posts.",
+      "skills": ["React", "Express", "Node", "APIs"],
+      "link": "https://www.example.com"
+    },
+    {
+      "title": "Study Buddy",
+      "imageSrc": "projects/project.png",
+      "description": "This project made to learn the latest languages by building an app.",
+      "skills": ["React", "MySQL", "Node", "PHP"],
+      "link": "https://www.example.com"
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This project shows my tech portfolio highlighting my skills amd experience.",
+      "skills": ["CSS", "HTML", "React"],
+      "link": "https://www.example.com"
+    }
+  ]
